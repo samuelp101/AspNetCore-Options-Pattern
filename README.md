@@ -109,6 +109,12 @@ public IActionResult ShowAccountConfig()
 </div>
 
 ```
+### Run and Test the app
+Launch the app and navigate to the following URL:
+https://localhost:44383/Home/ShowAccountConfig
+
+Values from the AccountConfig section in appSettings.json should be showing, as follow:
+![image](https://user-images.githubusercontent.com/8006937/129141479-e129d9db-65e4-49cd-9f8f-2a6e8a16f088.png)
 
 
 
